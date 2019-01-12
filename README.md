@@ -6,7 +6,7 @@
 Sumber Pertama: http://xylireleasesystem.free.fr
 DEMO --> http://koreksubs.info/
 
-![image](https://raw.githubusercontent.com/widibaka/Anime-Management-For-Fansub-Team/master/Neko.JPG)
+![neko](https://user-images.githubusercontent.com/25135495/51078580-d2b85e80-16e9-11e9-87eb-ebf5598e1fb4.jpg)
 
 Project PHP untuk menata rilisan Anime yang berguna untuk para telur Fansub yang ingin mulai berkarya. 
 Dikembangkan dari [Xyli Release System v2.0.0]. Saya hanya mengubah sebagian dari project XRS milik Xylitol, dan tidak mengakui project tersebut sebagai milik saya seutuhnya. Saya emang jago CSS sama HTML, tapi PHP masih belum mahir.
