@@ -1,7 +1,7 @@
-# Anime-Management-For-Fansub-Team
-# Anime URL Listing untuk Fansub
-# Berkah awal tahun untuk Fansub pemula :v
-# Anime Release System For Fansub Indonesia
+### Anime-Management-For-Fansub-Team
+### Anime URL Listing untuk Fansub
+### Berkah awal tahun untuk Fansub pemula :v
+### Anime Release System For Fansub Indonesia
 
 Sumber Pertama: http://xylireleasesystem.free.fr
 DEMO --> http://koreksubs.info/
