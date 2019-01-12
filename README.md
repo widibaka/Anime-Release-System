@@ -4,12 +4,15 @@
 ### Anime Release System For Fansub Indonesia
 
 Sumber Pertama: http://xylireleasesystem.free.fr
+
 DEMO --> http://koreksubs.info/
 
 ![neko](https://user-images.githubusercontent.com/25135495/51078580-d2b85e80-16e9-11e9-87eb-ebf5598e1fb4.jpg)
 
 Project PHP untuk menata rilisan Anime yang berguna untuk para telur Fansub yang ingin mulai berkarya. 
 Dikembangkan dari [Xyli Release System v2.0.0]. Saya hanya mengubah sebagian dari project XRS milik Xylitol, dan tidak mengakui project tersebut sebagai milik saya seutuhnya. Saya emang jago CSS sama HTML, tapi PHP masih belum mahir.
+
+Ini semacam daijoubu versi 3,  tapi ini gak ada hubungannya sama Iqbal Rifai... :V
 
 # Fitur:
 - CSS dan HTML disesuaikan dengan kebutuhan Fansub.
@@ -27,5 +30,3 @@ Instalasi gagal atau sudah berhasil tapi tidak terjadi apa-apa? Tenang, jangan b
 4. Simpan script yang sudah kamu edit tadi, lalu rename file tersebut menjadi "config.php". (Intinya, kata "cadangan" tadi dihapus)
 
 Instalasi selesai. Selamat Ngesub!! :v
-
-
