@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wibu Releases</title>
+    <description>Latest Wibu Releases</description>
+    <copyright>widibaka 2019</copyright>
+    <link>http://localhost/</link>
+    <atom:link href="http://localhost/rss.xml" rel="self" type="application/rss+xml"/>
+<language>en</language>
+    <image>
+      <title>Wibu Releases</title>
+      <url>http://localhost/design/rss.png</url>
+      <link>http://localhost/</link>
+    </image>
+<pubDate>Sat, 12 Jan 2019 20:15:53 +0000</pubDate>
+    <item>
+      <link>http://localhost/</link>
+      <title>[KorekSubs] Boogiepop wa Warawanai - 01 [720p].mkv</title>
+      <description>Visit our portal for more information</description>
+      <pubDate>Sun, 13 Jan 2019 03:15:53 +0000</pubDate>
+      <guid>http://localhost/#1</guid>
+    </item>
+  </channel>
+</rss>

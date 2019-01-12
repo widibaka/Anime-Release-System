@@ -1,0 +1,5 @@
+<h1>:: Tentang fansub ::</h1>
+<p>KorekSubs(widibaka) adalah orang yang entah kenapa suka nempelin tulisan di layar, supaya ada orang yang mau baca tulisan yang dia tempel di video anime :v ... Hehe, bercanda... Ini adalah fansub sederhana yang saya buat untuk mengembangkan hobi saya belajar bahasa Jepang. Sejauh ini cuma itu doang sih... wkwkwk</p>
+<p></p>
+<h4>Portal Rilisan ini adalah pengembangan dari [Xylitol.Release.System.v2.0.0 (XRSver2.0.0)]</h4></p>
+<p>Yang mana pada 2018 entah kenapa developernya bangkit lagi setelah 8 tahun enggak menggubris repositori XRS. <br>Visit:: Xylitol website di <b>http://xylireleasesystem.free.fr</b> <br>Atau cari aja di Github, pasti ada.</p>
