@@ -8,28 +8,6 @@ Instalasi gagal atau sudah berhasil tapi tidak terjadi apa-apa? Tenang, jangan b
 
 ====================================================================================
 
-<?php
-//Oh iya, jangan lupa buat dulu database di PhpMyAdmin sebelum mulai install ya :)
-defined('CORE') or defined('CORE_ACP') or exit;
-
-define('CONFIG', true);
-
-$config['team'] = 'NamaFansub'; //-- Isi nama fansub
-$config['pass'] = 'Password'; //-- password untuk control panel
-$config['accro'] = 'AkronimFansub'; //--  Akronim...ini enggak penting tapi wajib diisi :D
-
-$config['path'] = 'http://ALAMAT_Situs_kamu.com'; // Alamat situs kamu
-
-$config['cracksparpage'] = 20;
-
-$dbhost = 'localhost'; //-- Host
-$dbuser = 'root'; //-- user database
-$dbpass = 'root'; //--  password database
-$dbname = 'nama-database-kamu'; //-- nama database yang sudah kamu buat sebelumnya
-
-$db_link = new PDO('mysql:host=' . $dbhost . ';dbname=' . $dbname, $dbuser, $dbpass);
-
-
 ====================================================================================
 
 Copy-paste script di atas ke dalam text-editor yang memiliki fitur Syntax Hilight(Notepad++, Atom, dan lain-lain), supaya bagian komentar yang saya buat kelihatan. 
