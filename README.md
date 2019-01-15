@@ -15,7 +15,7 @@ Dikembangkan dari [Xyli Release System v2.0.0]. Saya hanya mengubah sebagian dar
 
 Ini semacam daijoubu versi 3,  tapi ini gak ada hubungannya sama Iqbal Rifai... :V
 
-# Requerement:
+# Requirement:
 PHP ver.7
 
 # Fitur:
