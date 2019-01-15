@@ -33,4 +33,6 @@ Instalasi gagal atau sudah berhasil tapi tidak terjadi apa-apa? Tenang, jangan b
 3. Nah, isilah dan sesuaikan seperti petunjuk yang ada di situ.
 4. Simpan script yang sudah kamu edit tadi, lalu rename file tersebut menjadi "config.php". (Intinya, kata "cadangan" tadi dihapus)
 
-Instalasi selesai. Selamat Ngesub!! :v
+Instalasi selesai. Selamat Ngesub!! :D
+
+# Jika instalasi gagal, cobalah ubah versi PHP ke versi yang terbaru.
